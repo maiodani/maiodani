@@ -3,7 +3,7 @@ Hello, My name is Daniel and I´m cunrrently studing Computer Science and Engine
 
 
 - 👨‍💻 Languages and Tools:
-![image](https://user-images.githubusercontent.com/49906389/220972613-ba34a43d-8e0e-4f7a-9389-35a829e5cb13.png)
+![image]()
 
 
 - 📫 How to reach me:
