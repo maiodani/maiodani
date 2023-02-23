@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Daniel
-Hello, My name is Daniel and I´m cunrrently studing Computer Science and Engineering at <a href="https://isec.pt/PT/Default.aspx">ISEC</a>.
+Hello, My name is Daniel and I´m currently studying Computer Science and Engineering at <a href="https://isec.pt/PT/Default.aspx">ISEC</a>.
 
 
 
