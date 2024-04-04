@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Daniel
-Hello, My name is Daniel and I´m currently studying Computer Science and Engineering at <a href="https://isec.pt/PT/Default.aspx">ISEC</a>.
+Hello, I'm Daniel and I'm currently working at <a href="https://www.grespanaria.com/pt">GresPanaria Portugal</a> as a software programmer, with a degree in software engineering.
+
 
 
 
