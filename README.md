@@ -31,7 +31,7 @@ I build custom digital solutions focused on performance, usability, and modern d
   &nbsp;&nbsp;&nbsp;
   <img title="React" src="https://user-images.githubusercontent.com/49906389/220983004-f4a4d78e-d255-47ce-aff9-8b5ea2319de2.png" width="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img title="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" />
+  <img title="Next.js" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" style="background:white; padding:4px; border-radius:6px;" />
   &nbsp;&nbsp;&nbsp;
   <img title="SQLite" src="https://user-images.githubusercontent.com/49906389/220983305-e63bbb26-1541-41e9-8ae7-6df9a82cde2f.png" width="40"/>
 </p>
