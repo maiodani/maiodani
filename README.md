@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Daniel
 
-Hello, I'm Daniel — founder of [MayBit](https://www.maybit.pt), a digital solutions studio.  
-I hold a degree in Software Engineering and build tailored applications that combine performance, usability, and modern design.
+Hello, I'm Daniel — founder of [MayBit](https://www.maybit.pt) and a software developer with a degree in Software Engineering.
+
+I build custom digital solutions focused on performance, usability, and modern design.
 
 ---
 
@@ -20,7 +21,7 @@ I hold a degree in Software Engineering and build tailored applications that com
   &nbsp;&nbsp;&nbsp;
   <img title="Kotlin" src="https://user-images.githubusercontent.com/49906389/220981139-453edf35-fb55-4f1d-bfbf-ec6fca3f0523.png" width="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img title="Flutter" src="https://user-images.githubusercontent.com/49906389/220981488-327a42a4-0dfc-4a32-bee7-a2a0ada7a8f3.png" width="32"/>
+  <img title="Flutter" src="https://user-images.githubusercontent.com/49906389/220981488-327a42a4-0dfc-4a32-bee7-a2a0ada7a8f3.png" width="40"/>
   &nbsp;&nbsp;&nbsp;
   <img title="HTML" src="https://user-images.githubusercontent.com/49906389/220982182-224ee34a-71d4-466e-8472-9bc20b350543.png" width="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -30,7 +31,7 @@ I hold a degree in Software Engineering and build tailored applications that com
   &nbsp;&nbsp;&nbsp;
   <img title="React" src="https://user-images.githubusercontent.com/49906389/220983004-f4a4d78e-d255-47ce-aff9-8b5ea2319de2.png" width="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img title="Next.js" src="https://user-images.githubusercontent.com/49906389/245384695-42965e3d-e0f8-4d0b-9809-45ae0e3019fa.png" width="40"/>
+  <img title="Next.js" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40"/>
   &nbsp;&nbsp;&nbsp;
   <img title="SQLite" src="https://user-images.githubusercontent.com/49906389/220983305-e63bbb26-1541-41e9-8ae7-6df9a82cde2f.png" width="40"/>
 </p>
@@ -48,7 +49,6 @@ I hold a degree in Software Engineering and build tailored applications that com
     <img src="https://user-images.githubusercontent.com/75807822/203573273-3518b33e-636a-4fef-9975-4de7b5e8eca6.png" width="40" alt="Discord" />
   </a>
 </p>
-
 
 
 
