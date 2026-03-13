@@ -41,7 +41,7 @@ I build custom digital solutions focused on performance, usability, and modern d
 ## 📫 Let's connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/daniel-maio-965224222/">
+  <a href="https://www.linkedin.com/in/danielmaio-maybit/">
     <img src="https://user-images.githubusercontent.com/49906389/220985443-75bbf501-9382-4923-a06a-f7513db8bf41.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
